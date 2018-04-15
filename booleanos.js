@@ -31,3 +31,4 @@ console.log(!!('' || null || 0 || ' '))
 let nome =  'Alancassio'
 
 console.log(nome || 'Desconhecido') // Forma de atribuir um valor padrão, caso o conteúdo da variável não seja preenchido
+

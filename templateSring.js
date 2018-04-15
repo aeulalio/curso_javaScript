@@ -10,4 +10,4 @@ console.log(concatenacao, template)
 console.log(`1 + 1 = ${1 + 1}`)
 
 const up = texto => texto.toUpperCase()
-console.log(`Ei... ${up('cuidado')}!`) // template strings faz parte das novas recomendações ECMA, ano 2015 em diante...
+console.log(`Ei... ${up('cuidado')}!`) // template strings faz parte das novas recomendações ECMA, ano 2015 em
